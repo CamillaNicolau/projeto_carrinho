@@ -1,0 +1,19 @@
+END
+Install-Package
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/22/bibliotecas/doctrine/Install-Package
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/22/bibliotecas/doctrine/composer.json
+END
+composer.lock
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/22/bibliotecas/doctrine/composer.lock
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Input
+END
+ArrayInput.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Input/ArrayInput.php
+END
+ArgvInput.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Input/ArgvInput.php
+END
+Input.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Input/Input.php
+END
+InputAwareInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Input/InputAwareInterface.php
+END
+InputInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Input/InputInterface.php
+END
+InputArgument.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Input/InputArgument.php
+END
+StringInput.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Input/StringInput.php
+END
+InputDefinition.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Input/InputDefinition.php
+END
+InputOption.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Input/InputOption.php
+END

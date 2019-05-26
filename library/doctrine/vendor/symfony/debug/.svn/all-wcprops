@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/composer.json
+END
+ExceptionHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/ExceptionHandler.php
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/LICENSE
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/.gitignore
+END
+CHANGELOG.md
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/CHANGELOG.md
+END
+phpunit.xml.dist
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/phpunit.xml.dist
+END
+DebugClassLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/DebugClassLoader.php
+END
+Debug.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/Debug.php
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/README.md
+END
+BufferingLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/BufferingLogger.php
+END
+ErrorHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/ErrorHandler.php
+END

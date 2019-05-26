@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Output
+END
+NullOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Output/NullOutput.php
+END
+StreamOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Output/StreamOutput.php
+END
+Output.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Output/Output.php
+END
+OutputInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Output/OutputInterface.php
+END
+BufferedOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Output/BufferedOutput.php
+END
+ConsoleOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Output/ConsoleOutput.php
+END
+ConsoleOutputInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Output/ConsoleOutputInterface.php
+END

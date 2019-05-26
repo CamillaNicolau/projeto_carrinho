@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/Tests/Fixtures
+END
+NonDeprecatedInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/Tests/Fixtures/NonDeprecatedInterface.php
+END
+PEARClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/Tests/Fixtures/PEARClass.php
+END
+reallyNotPsr0.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/Tests/Fixtures/reallyNotPsr0.php
+END
+ClassAlias.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/Tests/Fixtures/ClassAlias.php
+END
+DeprecatedInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/Tests/Fixtures/DeprecatedInterface.php
+END
+casemismatch.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/Tests/Fixtures/casemismatch.php
+END
+notPsr0Bis.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/Tests/Fixtures/notPsr0Bis.php
+END
+ToStringThrower.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/Tests/Fixtures/ToStringThrower.php
+END
+DeprecatedClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/Tests/Fixtures/DeprecatedClass.php
+END

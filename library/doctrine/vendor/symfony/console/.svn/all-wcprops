@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/composer.json
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/LICENSE
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/.gitignore
+END
+CHANGELOG.md
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/CHANGELOG.md
+END
+phpunit.xml.dist
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/phpunit.xml.dist
+END
+Application.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Application.php
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/README.md
+END
+ConsoleEvents.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/ConsoleEvents.php
+END
+Shell.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Shell.php
+END

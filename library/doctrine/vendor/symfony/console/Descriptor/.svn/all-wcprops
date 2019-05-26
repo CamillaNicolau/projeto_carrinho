@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Descriptor
+END
+Descriptor.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Descriptor/Descriptor.php
+END
+DescriptorInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Descriptor/DescriptorInterface.php
+END
+XmlDescriptor.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Descriptor/XmlDescriptor.php
+END
+MarkdownDescriptor.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Descriptor/MarkdownDescriptor.php
+END
+TextDescriptor.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Descriptor/TextDescriptor.php
+END
+ApplicationDescription.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Descriptor/ApplicationDescription.php
+END
+JsonDescriptor.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Descriptor/JsonDescriptor.php
+END

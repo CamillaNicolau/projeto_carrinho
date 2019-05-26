@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/Exception
+END
+FatalThrowableError.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/Exception/FatalThrowableError.php
+END
+FlattenException.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/Exception/FlattenException.php
+END
+ContextErrorException.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/Exception/ContextErrorException.php
+END
+FatalErrorException.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/Exception/FatalErrorException.php
+END
+ClassNotFoundException.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/Exception/ClassNotFoundException.php
+END
+UndefinedMethodException.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/Exception/UndefinedMethodException.php
+END
+OutOfMemoryException.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/Exception/OutOfMemoryException.php
+END
+UndefinedFunctionException.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/Exception/UndefinedFunctionException.php
+END

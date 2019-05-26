@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Event
+END
+ConsoleTerminateEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Event/ConsoleTerminateEvent.php
+END
+ConsoleCommandEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Event/ConsoleCommandEvent.php
+END
+ConsoleExceptionEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Event/ConsoleExceptionEvent.php
+END
+ConsoleEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Event/ConsoleEvent.php
+END

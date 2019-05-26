@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/Tests/FatalErrorHandler
+END
+ClassNotFoundFatalErrorHandlerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/Tests/FatalErrorHandler/ClassNotFoundFatalErrorHandlerTest.php
+END
+UndefinedMethodFatalErrorHandlerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/Tests/FatalErrorHandler/UndefinedMethodFatalErrorHandlerTest.php
+END
+UndefinedFunctionFatalErrorHandlerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/5/vendor/symfony/debug/Tests/FatalErrorHandler/UndefinedFunctionFatalErrorHandlerTest.php
+END

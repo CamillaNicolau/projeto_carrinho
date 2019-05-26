@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Exception
+END
+CommandNotFoundException.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Exception/CommandNotFoundException.php
+END
+LogicException.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Exception/LogicException.php
+END
+InvalidOptionException.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Exception/InvalidOptionException.php
+END
+ExceptionInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Exception/ExceptionInterface.php
+END
+RuntimeException.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Exception/RuntimeException.php
+END
+InvalidArgumentException.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/pracinha/projects/chute_certo/repositories/subversion/mais_pelada/!svn/ver/4/vendor/symfony/console/Exception/InvalidArgumentException.php
+END
