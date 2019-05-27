@@ -26,11 +26,9 @@ class ProdutoRepositorio extends Produto
                 ->setValue('nome',':nome')
                     ->setValue('preco',':preco')
                     ->setValue('promocao',':promocao')
-                    ->setValue('url_imagem',':url_imagem')
                     ->setParameter(':nome', $Produto->nome)
                     ->setParameter(':preco',$Produto->preco)
                     ->setParameter(':promocao',$Produto->promocao)
-                    ->setParameter(':url_imagem',$Produto->urlImagem)
                     ->execute()
                 ;
             $Produto->idProduto = $QueryBuilder->getConnection()->lastInsertId();
