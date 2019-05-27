@@ -23,7 +23,6 @@ class IndexControle
 
                     $Produto->nome = $_POST['nomeProduto'];
                     $Produto->preco = $_POST['precoProduto'];
-                    $Produto->urlImagem = URL_PRODUTO.'/'. Produto::PREFIXO_MINIATURA . 'default.png';
                     $Produto->promocao = $_POST['promocao'];
            
                     $ProdutoRepositorio->adicionaProduto($Produto);
@@ -43,7 +42,6 @@ class IndexControle
                     $saida['nome'] = $Produto->nome;
                     $saida['preco'] = $Produto->preco;
                     $saida['promocao'] = $Produto->promocao;
-                    $saida['imagem'] = URL_PRODUTO. '/'. Produto::PREFIXO_MINIATURA . $Produto->urlImagem;
                     
                     exit(json_encode($saida));
                 }catch(Erro $E){
@@ -60,7 +58,6 @@ class IndexControle
                     $Produto->nome = $_POST['nomeProduto'];
                     $Produto->preco = $_POST['precoProduto'];
                     $Produto->promocao = $_POST['promocao'];
-                    $Produto->urlImagem = URL_PRODUTO.'/'. Produto::PREFIXO_MINIATURA . 'default.png';
                     $ProdutoRepositorio->atualizaProduto($Produto);
                     \Doctrine::commit();
                     exit(json_encode(array('sucesso'=>true,'mensagem'=>'Dados atualizados com sucessos')));
@@ -89,7 +86,7 @@ class IndexControle
                     $ListaProduto = ProdutoRepositorio::buscaProduto();
                     foreach($ListaProduto as $produto) {
                         $preco = number_format($produto->preco,2,",",".");
-                        $html[] =  array('id'=>$produto->id_produto,'nome'=>$produto->nome, 'preco'=>$preco, 'imagem'=>$produto->url_imagem) ;
+                        $html[] =  array('id'=>$produto->id_produto,'nome'=>$produto->nome, 'preco'=>$preco) ;
                     }
                     exit(json_encode(array('sucesso'=>true,'html'=>$html)));
                 }catch(Erro $E){
