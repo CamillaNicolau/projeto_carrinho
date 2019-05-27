@@ -38,25 +38,11 @@ class Produto
     private $promocao;
     
     /**
-     * url da imagem do produto definida no banco de dados
-     *
-     * @var string
-     */
-    private $urlImagem;
-    
-    /**
      * Data da criação do registro no banco de dados.
      *
      * @var date
      */
-    private $dataCriacao;
-    
-    /**
-     * constante definida para representar a imagem miniatura;
-     *
-     * @var string
-     */
-    const PREFIXO_MINIATURA = 'mini_'; 	
+    private $dataCriacao;	
 
     /**
      * Instancia um produto baseado em sua chave identificadora do banco de dados ou cria uma nova instância.
@@ -84,7 +70,6 @@ class Produto
                     $this->nome = $ObjDados->nome;
                     $this->preco = $ObjDados->preco;
                     $this->promocao = $ObjDados->promocao;
-                    $this->urlImagem = $ObjDados->url_imagem;
                     $this->dataCriacao = $ObjDados->data_criacao;
                 } catch(Exception $ex){
                     echo('Erro ao instanciar a classe '._CLASS_.'.' .$ex.getMessage());
@@ -112,7 +97,6 @@ class Produto
             case 'nome':
             case 'preco':
             case 'promocao':
-            case 'urlImagem':
             case 'dataCriacao':
                 return $this->$atributo;
             break;
@@ -136,7 +120,6 @@ class Produto
             case 'nome':
             case 'preco':
             case 'promocao':
-            case 'urlImagem':
                 $this->$atributo = (($valor || $valor === 0 || $valor === '0') ? $valor : null);
             break;
             case 'dataCriacao':
