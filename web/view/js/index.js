@@ -80,7 +80,6 @@ function listaProduto() {
                     $('#listaProduto').append(
                         '<div class="col-sm-6 col-md-3 ">'+
                             '<div class="card text-center mb-5">'+
-                                '<img class="card-img-top text-white-50 bg-secondary py-4" src="'+v.imagem+'" height="200" width="250">'+
                                     '<div class="card-body">'+
                                         '<h3 class="card-title">'+v.nome+'</h3>'+
                                         '<h5>R$ '+v.preco+'</h5>'+
@@ -120,7 +119,6 @@ function editarProduto(idProduto){
             $("#nomeProduto").val(retorno.nome);
             $("#precoProduto").val(retorno.preco);
             $("#promocao").val(retorno.promocao);
-            $("#imagemProduto").val(retorno.imagem);
             $('#form_cadastra_produto #acao').val('atualizar');
             
         }
